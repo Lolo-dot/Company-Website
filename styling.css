@@ -1,0 +1,67 @@
+/*adding a backgound image to the body*/
+
+body{
+    background: url(https://freenaturestock.com/wp-content/uploads/freenaturestock-1033-1024x683.jpeg) no-repeat center center fixed;
+    background-size: cover;
+    font-family: sans-serif;
+}
+
+#navigationbaritems ul li a{
+    color: grey;
+    margin-right: 20px;
+    font-size: 20px;  
+    padding: 20px 0;   
+}
+
+
+#navigationbaritems ul li a:hover{
+    color: white;
+    border-bottom: 2px solid green;
+    padding-bottom: 18px;
+}
+
+
+.logo{
+    width: 60px;
+}
+
+.navbar{
+    background-color: rgba(0, 0, 0, 0.5);   
+}
+
+.container h1{
+    color: white;
+    font-size: 60px;
+    text-align: center;
+}
+
+.container{
+    color: white;
+    text-align: center;
+}
+
+.icon{
+    width: 120px;
+    height: 120px;
+}
+
+.contactbutton {
+    text-align: center;
+    margin-bottom: 250px;
+}
+
+.contactbutton a{
+    background-color: rgb(45, 193, 18, 0.5);
+    color: white;
+    border: 0px;
+    width: 250px;
+    margin-top: 40px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.footer{
+    background-color: #eeee;
+    font-size: 15px;
+    padding: 10px 0;
+}
