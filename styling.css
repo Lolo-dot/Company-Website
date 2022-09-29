@@ -4,6 +4,7 @@ body{
     background: url(https://freenaturestock.com/wp-content/uploads/freenaturestock-1033-1024x683.jpeg) no-repeat center center fixed;
     background-size: cover;
     font-family: sans-serif;
+    position: relative;
 }
 
 #navigationbaritems ul li a{
