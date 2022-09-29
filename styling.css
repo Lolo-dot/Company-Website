@@ -63,5 +63,7 @@ body{
 .footer{
     background-color: #eeee;
     font-size: 15px;
+    position: absolute;
+    bottom: 0;
     padding: 10px 0;
 }
